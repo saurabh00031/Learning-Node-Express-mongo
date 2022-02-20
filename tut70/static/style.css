@@ -1,0 +1,47 @@
+body{
+    color:indigo;
+    margin:auto;
+
+    
+}
+
+h1{
+    text-align:center;
+}
+
+nav{
+
+    height:100px;
+    background-color: grey;
+    color:white;
+}
+
+nav a{
+    text-decoration:none;
+    color:white;
+}
+ul
+{
+    display:flex;
+    flex-direction:row;
+    list-style:none;
+}
+
+
+p{
+    text-align:center;
+}
+li{
+    padding:20px;
+    font-size:20px;;
+}
+
+.row{
+
+    margin:auto;
+    width:75%;
+}
+
+.container{
+    border-radius:4% ;
+}
